@@ -52,7 +52,7 @@ The goal is to extract insights, identify patterns, and visualize relationships 
 <img width="2880" height="1800" alt="5 B" src="https://github.com/user-attachments/assets/2d502b72-f119-4efd-bea9-de6be46c3043" />
 
 ---
-![Uploading 5 B (2).png…]()
+<img width="2880" height="1800" alt="5 B (2)" src="https://github.com/user-attachments/assets/06194782-de9f-442d-8336-266d65cd13c9" />
 
 
 ## 📊 Key Insights
